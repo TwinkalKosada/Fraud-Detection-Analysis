@@ -31,7 +31,7 @@ Fraud vs Non-Fraud distribution
 
 World map showing transaction density by region
 
-
+(https://github.com/TwinkalKosada/Fraud-Detection-Analysis/blob/main/Fraud%20Detection%201.png)
 
 
 # Fraud Detection Dashboard
