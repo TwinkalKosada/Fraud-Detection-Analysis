@@ -31,7 +31,6 @@ Fraud vs Non-Fraud distribution
 
 World map showing transaction density by region
 
-![Fraud Detection 1](https://github.com/TwinkalKosada/Fraud-Detection-Analysis/blob/main/Fraud%20Detection%201.png)
 
 
 # Fraud Detection Dashboard
@@ -52,7 +51,7 @@ Fraud distribution across Network Slice ID
 
 Global map showing suspicious activities
 
-Screenshot:
+
 
 
 # Transaction Details
@@ -79,7 +78,9 @@ Network Slice ID
 
 Timestamp
 
-Screenshot:
+# datasets
+
+[Kaggle](https://www.kaggle.com/datasets/ziya07/transaction-data-for-banking-operations)
 
 
 # Key Insights
